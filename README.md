@@ -12,7 +12,9 @@
 
     So that we can provide almost endless storage in steam cloud without server running on the local machine(SSD = Solid State Drive)
 
+
     six fundamental math function  
+    
     sin cos   
     asin acos  
     sinh cosh   
@@ -21,8 +23,20 @@
     exp log 
     
     more twleve math function
+    nan infinite
     fmod modf
     frexp ldexp
     pow sqrt
-    
+    ceil floor
+    isnan isinfinite
+
+    Data Types: char, int, float, double, void, signed, unsigned, short, long
+
+    Storage Classes: auto, extern, static, register
+
+    Type Qualifiers: const, volatile
+
+    Type Definitions: typedef, struct, union, enum
+
+    Control Flow: if, else, switch, case, default, for, while, do, break, continue, goto, return
     
