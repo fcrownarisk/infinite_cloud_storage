@@ -4,7 +4,7 @@
   
     illustrate basic principle theory 
    
-    based on Extended String Theory (E A D G B E) and Quantum Loop Theory (spin boson fermion supersysmetry)
+    based on Extended Standard String Theory (E A D G B E) and Quantum Loop Theory (spin boson fermion supersysmetry)
 
     seize the power of Dark Matter consuming the Dark Energy to increase itself(D M)
 
