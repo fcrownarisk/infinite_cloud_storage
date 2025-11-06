@@ -1,4 +1,4 @@
-    char short int float double long signed unsigned
+    void char short int float double long signed unsigned
     
     do while  
     for goto
