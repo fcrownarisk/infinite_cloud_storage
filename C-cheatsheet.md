@@ -17,6 +17,7 @@
     auto union
     default register
 
+
     _C99 Special Keyword
     
     _Bool
@@ -30,7 +31,6 @@
     _Alignof
     _Atomic
     _Generic
-    _Noreturn
     _Noreturn
     _Static_assert
     _Thread_local
