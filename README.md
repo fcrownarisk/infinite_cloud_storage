@@ -18,4 +18,11 @@
     sinh cosh   
     asinh acosh
     tan atan
-    exp log
+    exp log 
+    
+    more twleve math function
+    fmod modf
+    frexp ldexp
+    pow sqrt
+    
+    
