@@ -10,8 +10,8 @@
 
     seize the power of Dark Matter consuming the Dark Energy to increase itself(D M)
 
-    So that we can provide almost endless storage in steam cloud without server running on the local machine(SSD = Solid State Drive)
-
+    So that we can provide almost endless storage in steam cloud 
+    without server running on the local machine(SSD = Solid State Drive)
 
     six fundamental math function  
     
@@ -23,6 +23,7 @@
     exp log 
     
     more twleve math function
+    
     nan infinite
     fmod modf
     frexp ldexp
@@ -39,4 +40,3 @@
     Type Definitions: typedef, struct, union, enum
 
     Control Flow: if, else, switch, case, default, for, while, do, break, continue, goto, return
-    
