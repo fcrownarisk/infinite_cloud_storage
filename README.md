@@ -40,3 +40,5 @@
     Type Definitions: typedef, struct, union, enum
 
     Control Flow: if, else, switch, case, default, for, while, do, break, continue, goto, return
+
+为了解决value公司中steam游戏云存档经常丢失的情况，所以有了这个貌似lossless scaling的无服务器云存档的"游戏"，便于玩家管理自己的steam游戏存档
